@@ -1,0 +1,201 @@
+nama_hewan,bentuk_paruh,bentuk_gigi,bentuk_kaki,bentuk_mulut,kategori_makanan
+Gajah,Panjang,Tidak Ada,Empat,Luas,Herbivora
+Harimau,Pendek,Tajam,Empat,Lebih Kecil,Karnivora
+Kuda,Panjang,Runcing,Empat,Sedang,Omnivora
+Kanguru,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Buaya,Panjang,Tajam,Empat,Lebar,Karnivora
+Kura-kura,Kecil,Tumpul,Empat,Lebar,Herbivora
+Burung Hantu,Panjang,Tidak Ada,Dua,Kecil,Karnivora
+Koala,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Singa,Panjang,Tajam,Empat,Lebar,Karnivora
+Siput,Kecil,Tidak Ada,Empat,Kecil,Herbivora
+Katak,Kecil,Tidak Ada,Empat,Kecil,Omnivora
+Kelinci,Panjang,Runcing,Empat,Kecil,Herbivora
+Pinguin,Kecil,Tidak Ada,Dua,Kecil,Karnivora
+Babi,Pendek,Tumpul,Empat,Sedang,Omnivora
+Gajah Laut,Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Kucing,Pendek,Tajam,Empat,Kecil,Karnivora
+Burung Elang,Panjang,Tajam,Dua,Lebar,Karnivora
+Kuda Nil,Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Jerapah,Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Hiu,Panjang,Tajam,Empat,Lebar,Karnivora
+Kelabang,Kecil,Tajam,Empat,Kecil,Karnivora
+Kancil,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Komodo,Panjang,Tajam,Empat,Lebar,Karnivora
+Ular,Kecil,Tajam,Tidak Ada,Tidak Ada,Karnivora
+Koala,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Kerbau,Pendek,Tidak Ada,Empat,Lebar,Herbivora
+Monyet,Panjang,Tidak Ada,Empat,Lebar,Omnivora
+Panda,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Anjing,Pendek,Tajam,Empat,Kecil,Omnivora
+Lebah,Kecil,Tidak Ada,Enam,Kecil,Herbivora
+Lumba-lumba,Panjang,Tidak Ada,Empat,Lebar,Karnivora
+Kepiting,Kecil,Tidak Ada,Empat,Kecil,Karnivora
+Burung Gagak,Kecil,Tidak Ada,Dua,Kecil,Omnivora
+Paus,Panjang,Tidak Ada,Empat,Lebar,Karnivora
+Pelikan,Kecil,Tidak Ada,Dua,Kecil,Omnivora
+Kerbau,Lebih Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Gorila,Panjang,Tidak Ada,Empat,Lebar,Omnivora
+Katak,Kecil,Tidak Ada,Empat,Kecil,Omnivora
+Cheetah,Panjang,Tajam,Empat,Kecil,Karnivora
+Koala,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Singa Laut,Panjang,Tajam,Empat,Lebar,Karnivora
+Burung Hantu,Kecil,Tidak Ada,Dua,Kecil,Karnivora
+Kuda Nil,Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Kuda,Panjang,Runcing,Empat,Sedang,Omnivora
+Penguin,Kecil,Tidak Ada,Dua,Kecil,Karnivora
+Badak,Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Kupu-kupu,Kecil,Tidak Ada,Enam,Kecil,Herbivora
+Paus,Lebih Panjang,Tidak Ada,Empat,Lebar,Karnivora
+Kura-kura,Kecil,Tumpul,Empat,Lebar,Herbivora
+Siput,Kecil,Tidak Ada,Empat,Kecil,Herbivora
+Kanguru,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Kelinci,Panjang,Runcing,Empat,Kecil,Herbivora
+Singa,Panjang,Tajam,Empat,Lebar,Karnivora
+Kucing,Pendek,Tajam,Empat,Kecil,Karnivora
+Hiu,Panjang,Tajam,Empat,Lebar,Karnivora
+Burung Elang,Panjang,Tajam,Dua,Lebar,Karnivora
+Komodo,Panjang,Tajam,Empat,Lebar,Karnivora
+Kuda,Panjang,Runcing,Empat,Sedang,Omnivora
+Kuda Nil,Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Burung Gagak,Kecil,Tidak Ada,Dua,Kecil,Omnivora
+Gajah Laut,Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Kucing,Pendek,Tajam,Empat,Kecil,Karnivora
+Babi,Pendek,Tumpul,Empat,Sedang,Omnivora
+Gajah Laut,Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Kucing,Pendek,Tajam,Empat,Kecil,Karnivora
+Burung Gagak,Kecil,Tidak Ada,Dua,Kecil,Omnivora
+Kelabang,Kecil,Tajam,Empat,Kecil,Karnivora
+Kancil,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Ular,Kecil,Tajam,Tidak Ada,Tidak Ada,Karnivora
+Panda,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Kerbau,Pendek,Tidak Ada,Empat,Lebar,Herbivora
+Monyet,Panjang,Tidak Ada,Empat,Lebar,Omnivora
+Gajah,Panjang,Tidak Ada,Empat,Luas,Herbivora
+Singa Laut,Panjang,Tajam,Empat,Lebar,Karnivora
+Jerapah,Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Kuda Nil,Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Kuda,Panjang,Runcing,Empat,Sedang,Omnivora
+Badak,Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Burung Hantu,Kecil,Tidak Ada,Dua,Kecil,Karnivora
+Koala,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Kancil,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Paus,Panjang,Tidak Ada,Empat,Lebar,Karnivora
+Siput,Kecil,Tidak Ada,Empat,Kecil,Herbivora
+Kucing,Pendek,Tajam,Empat,Kecil,Karnivora
+Kepiting,Kecil,Tidak Ada,Empat,Kecil,Karnivora
+Gorila,Panjang,Tidak Ada,Empat,Lebar,Omnivora
+Kanguru,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Buaya,Panjang,Tajam,Empat,Lebar,Karnivora
+Komodo,Panjang,Tajam,Empat,Lebar,Karnivora
+Kucing,Pendek,Tajam,Empat,Kecil,Karnivora
+Kuda Nil,Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Kuda,Panjang,Runcing,Empat,Sedang,Omnivora
+Kanguru,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Kerbau,Lebih Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Burung Hantu,Panjang,Tidak Ada,Dua,Kecil,Karnivora
+Kancil,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Koala,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Burung Elang,Panjang,Tajam,Dua,Lebar,Karnivora
+Babi,Pendek,Tumpul,Empat,Sedang,Omnivora
+Buaya,Panjang,Tajam,Empat,Lebar,Karnivora
+Pinguin,Kecil,Tidak Ada,Dua,Kecil,Karnivora
+Kura-kura,Kecil,Tumpul,Empat,Lebar,Herbivora
+Komodo,Panjang,Tajam,Empat,Lebar,Karnivora
+Koala,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Gajah Laut,Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Kucing,Pendek,Tajam,Empat,Kecil,Karnivora
+Singa,Panjang,Tajam,Empat,Lebar,Karnivora
+Jerapah,Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Monyet,Panjang,Tidak Ada,Empat,Lebar,Omnivora
+Babi,Pendek,Tumpul,Empat,Sedang,Omnivora
+Koala,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Burung Hantu,Panjang,Tidak Ada,Dua,Kecil,Karnivora
+Kancil,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Kanguru,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Singa,Panjang,Tajam,Empat,Lebar,Karnivora
+Koala,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Kura-kura,Kecil,Tumpul,Empat,Lebar,Herbivora
+Burung Elang,Panjang,Tajam,Dua,Lebar,Karnivora
+Buaya,Panjang,Tajam,Empat,Lebar,Karnivora
+Kelinci,Panjang,Runcing,Empat,Kecil,Herbivora
+Pinguin,Kecil,Tidak Ada,Dua,Kecil,Karnivora
+Babi,Pendek,Tumpul,Empat,Sedang,Omnivora
+Gajah Laut,Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Kucing,Pendek,Tajam,Empat,Kecil,Karnivora
+Burung Gagak,Kecil,Tidak Ada,Dua,Kecil,Omnivora
+Kelabang,Kecil,Tajam,Empat,Kecil,Karnivora
+Kancil,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Ular,Kecil,Tajam,Tidak Ada,Tidak Ada,Karnivora
+Panda,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Kerbau,Pendek,Tidak Ada,Empat,Lebar,Herbivora
+Monyet,Panjang,Tidak Ada,Empat,Lebar,Omnivora
+Gajah,Panjang,Tidak Ada,Empat,Luas,Herbivora
+Singa Laut,Panjang,Tajam,Empat,Lebar,Karnivora
+Jerapah,Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Kuda Nil,Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Kuda,Panjang,Runcing,Empat,Sedang,Omnivora
+Badak,Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Burung Hantu,Kecil,Tidak Ada,Dua,Kecil,Karnivora
+Koala,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Kancil,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Paus,Panjang,Tidak Ada,Empat,Lebar,Karnivora
+Siput,Kecil,Tidak Ada,Empat,Kecil,Herbivora
+Kucing,Pendek,Tajam,Empat,Kecil,Karnivora
+Kepiting,Kecil,Tidak Ada,Empat,Kecil,Karnivora
+Gorila,Panjang,Tidak Ada,Empat,Lebar,Omnivora
+Kanguru,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Buaya,Panjang,Tajam,Empat,Lebar,Karnivora
+Komodo,Panjang,Tajam,Empat,Lebar,Karnivora
+Kucing,Pendek,Tajam,Empat,Kecil,Karnivora
+Kuda Nil,Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Kuda,Panjang,Runcing,Empat,Sedang,Omnivora
+Kanguru,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Kerbau,Lebih Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Burung Hantu,Panjang,Tidak Ada,Dua,Kecil,Karnivora
+Kancil,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Koala,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Burung Elang,Panjang,Tajam,Dua,Lebar,Karnivora
+Babi,Pendek,Tumpul,Empat,Sedang,Omnivora
+Buaya,Panjang,Tajam,Empat,Lebar,Karnivora
+Pinguin,Kecil,Tidak Ada,Dua,Kecil,Karnivora
+Kura-kura,Kecil,Tumpul,Empat,Lebar,Herbivora
+Komodo,Panjang,Tajam,Empat,Lebar,Karnivora
+Koala,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Gajah Laut,Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Kucing,Pendek,Tajam,Empat,Kecil,Karnivora
+Singa,Panjang,Tajam,Empat,Lebar,Karnivora
+Jerapah,Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Burung Gagak,Kecil,Tidak Ada,Dua,Kecil,Omnivora
+Kuda Nil,Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Burung Hantu,Kecil,Tidak Ada,Dua,Kecil,Karnivora
+Kerbau,Pendek,Tidak Ada,Empat,Lebar,Herbivora
+Singa Laut,Panjang,Tajam,Empat,Lebar,Karnivora
+Kanguru,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Gorila,Panjang,Tidak Ada,Empat,Lebar,Omnivora
+Koala,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Monyet,Panjang,Tidak Ada,Empat,Lebar,Omnivora
+Paus,Panjang,Tidak Ada,Empat,Lebar,Karnivora
+Buaya,Panjang,Tajam,Empat,Lebar,Karnivora
+Kepiting,Kecil,Tidak Ada,Empat,Kecil,Karnivora
+Kucing,Pendek,Tajam,Empat,Kecil,Karnivora
+Kuda Nil,Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Kuda,Panjang,Runcing,Empat,Sedang,Omnivora
+Kelinci,Panjang,Runcing,Empat,Kecil,Herbivora
+Kanguru,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Buaya,Panjang,Tajam,Empat,Lebar,Karnivora
+Kura-kura,Kecil,Tumpul,Empat,Lebar,Herbivora
+Burung Hantu,Panjang,Tidak Ada,Dua,Kecil,Karnivora
+Koala,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Singa,Panjang,Tajam,Empat,Lebar,Karnivora
+Kucing,Pendek,Tajam,Empat,Kecil,Karnivora
+Kuda Nil,Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Jerapah,Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Gajah Laut,Panjang,Tidak Ada,Empat,Lebar,Herbivora
+Burung Gagak,Kecil,Tidak Ada,Dua,Kecil,Omnivora
+Kerbau,Pendek,Tidak Ada,Empat,Lebar,Herbivora
+Kanguru,Pendek,Tidak Ada,Empat,Kecil,Herbivora
+Komodo,Panjang,Tajam,Empat,Lebar,Karnivora
+Kuda,Panjang,Runcing,Empat,Sedang,Omnivora
+Pinguin,Kecil,Tidak Ada,Dua,Kecil,Karnivora
+Monyet,Panjang,Tidak Ada,Empat,Lebar,Omnivora
